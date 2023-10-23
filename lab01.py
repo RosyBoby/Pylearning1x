@@ -1,0 +1,5 @@
+print ('Hello World')
+print(2+5)
+print(9)
+print(23+45)
+print(23*45)
